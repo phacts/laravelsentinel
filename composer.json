@@ -38,9 +38,10 @@
         }
     },
     "extra": {
+        "component": "package",
         "branch-alias": {
             "dev-master": "master"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
