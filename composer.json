@@ -13,7 +13,7 @@
         "php": ">=5.5.9",
         "illuminate/support": "5.1.*@dev",
         "illuminate/contracts": "5.1.*@dev",
-        "phacts/sentry": "https://github.com/phacts/sentinel#master",
+        "phacts/sentry": "~2.1",
         "vinkla/hashids": "~2.0"
     },
     "require-dev": {
